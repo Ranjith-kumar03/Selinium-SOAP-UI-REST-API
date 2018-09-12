@@ -1,6 +1,6 @@
 #Author: your.email@your.domain.com
 
-Feature: SOAP UI Testing
+Feature: SOAP UI Testing We are Testting REST also
  
 
   
